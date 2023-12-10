@@ -1,0 +1,8 @@
+{
+    "enter_number": "Zadejte číslo: ",
+    "enter_operator": "Zadejte operátor (+, -, *, /): ",
+    "enter_expression": "Zadejte matematický výraz: ",
+    "result": "Výsledek: ",
+    "invalid_expression": "Neplatný výraz nebo dělení nulou."
+  }
+  

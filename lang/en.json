@@ -1,0 +1,8 @@
+{
+    "enter_number": "Enter a number: ",
+    "enter_operator": "Enter an operator (+, -, *, /): ",
+    "enter_expression": "Enter a mathematical expression: ",
+    "result": "Result: ",
+    "invalid_expression": "Invalid expression or division by zero."
+  }
+  
